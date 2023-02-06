@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "938231168750",
+    "firebase_url": "https://medical-f59b0-default-rtdb.firebaseio.com",
+    "project_id": "medical-f59b0",
+    "storage_bucket": "medical-f59b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938231168750:android:e113521a53e7b76cbafdff",
+        "android_client_info": {
+          "package_name": "com.abmtech.medicalapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938231168750-uf7b5mti0256ngn1go3jpv015404c5u3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abmtech.medicalapplication",
+            "certificate_hash": "6ced05644c480575e449387637040f740f73efb5"
+          }
+        },
+        {
+          "client_id": "938231168750-kkgacqo0alfbf6q1vrg78pqgj47ttgoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_T32PvGRGvd_L56MxNcIAjpcj_bEGDy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938231168750-kkgacqo0alfbf6q1vrg78pqgj47ttgoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938231168750:android:290540a19c458d00bafdff",
+        "android_client_info": {
+          "package_name": "com.abmtech.medicalmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938231168750-kkgacqo0alfbf6q1vrg78pqgj47ttgoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_T32PvGRGvd_L56MxNcIAjpcj_bEGDy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938231168750-kkgacqo0alfbf6q1vrg78pqgj47ttgoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938231168750:android:0ed27ef7ac55f943bafdff",
+        "android_client_info": {
+          "package_name": "com.cscodetech.pharmafast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938231168750-64lnbe0u00rns6iiv80eo8c3dpkoasif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cscodetech.pharmafast",
+            "certificate_hash": "a430c7d9b0e79541e2c9007faa9eb01fc7df46bb"
+          }
+        },
+        {
+          "client_id": "938231168750-kkgacqo0alfbf6q1vrg78pqgj47ttgoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_T32PvGRGvd_L56MxNcIAjpcj_bEGDy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938231168750-kkgacqo0alfbf6q1vrg78pqgj47ttgoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

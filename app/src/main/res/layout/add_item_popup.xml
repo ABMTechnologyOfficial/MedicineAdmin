@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:weightSum="2"
+    android:padding="@dimen/_20sdp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:ignore="UseCompoundDrawables">
+
+    <LinearLayout
+        android:id="@+id/ll_add_medicine"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_40sdp"
+            android:paddingHorizontal="@dimen/_18sdp"
+            android:src="@drawable/ic_medicine" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add Medicine"
+            android:textAlignment="center"
+            android:fontFamily="@font/inter_regular"
+            android:textColor="@color/black"
+            android:textSize="@dimen/_13sdp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_add_doctor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_40sdp"
+            android:paddingHorizontal="@dimen/_18sdp"
+            android:src="@drawable/ic_doctors" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add Doctor"
+            android:textAlignment="center"
+            android:fontFamily="@font/inter_regular"
+            android:textColor="@color/black"
+            android:textSize="@dimen/_13sdp"/>
+
+    </LinearLayout>
+
+</LinearLayout>
